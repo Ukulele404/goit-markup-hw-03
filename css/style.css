@@ -250,15 +250,16 @@ justify-content: center;
     .fourth-section-list {
         display: flex;
         gap: 24px;
-
     }
       .team-li {
          background-color: var(--backgroungColor);
         width: calc((100% - 72px) / 4);
-        border-radius: 0px 0px 4px 4px;
+    border-radius: 0px 0px 4px 4px;
+    
     }
     .team-info {
         padding: 32px 16px;
+
     }
    .team-info > h3 {
     text-align: center;
