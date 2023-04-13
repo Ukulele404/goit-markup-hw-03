@@ -36,6 +36,9 @@ body {
 img {
     display: block;
 }
+a {
+    display: block;
+}
 .visually-hidden {
     position: fixed;
     transform: scale(0);
@@ -52,6 +55,7 @@ img {
     display: flex;
     margin-right: 332px;
     align-items: center;
+    height: 72px;
 
 }
 .header-list {
@@ -316,6 +320,7 @@ justify-content: center;
     display: flex;
     align-items: center;
     margin-right: 332px;
+    height: 72px;
 }
 .portfolio-header-list {
     display: flex;
